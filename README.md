@@ -9,4 +9,4 @@ There are no rules, but we'd like to see some evidence that you know your away a
 * The mockup file [is here](assets/mock.png).
 * Company logo [is here](assets/rs-logo.png).
 
-Once you have completed both of those, pack up your code and send it to the person who sent you the link to get here!
+Once you have completed this task, pack up your code and send it to the person who sent you the link to get here!
